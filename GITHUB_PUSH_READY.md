@@ -36,18 +36,16 @@ After creating the repo, run these commands:
 cd "/Users/elinanovikova/Downloads/new Swarm"
 
 # Add your GitHub repository as remote
-git remote add origin https://github.com/YOUR_USERNAME/swarm-droneRLnew.git
+git remote add origin https://github.com/Elina389/swarm-droneRLnew.git
 
 # Push everything to GitHub  
 git branch -M main
 git push -u origin main
 ```
 
-**🔥 Replace `YOUR_USERNAME` with your actual GitHub username!**
-
 ### **3. Verify Upload**
 Your repository will be live at:
-**https://github.com/YOUR_USERNAME/swarm-droneRLnew**
+**https://github.com/Elina389/swarm-droneRLnew**
 
 ## 🎉 **What You'll Have**
 

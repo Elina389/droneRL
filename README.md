@@ -38,7 +38,7 @@ This project implements intelligent drone swarm coordination using:
 
 ### **Installation**
 ```bash
-git clone https://github.com/yourusername/swarm-droneRLnew.git
+git clone https://github.com/Elina389/swarm-droneRLnew.git
 cd swarm-droneRLnew
 pip install -r requirements.txt
 ```
@@ -202,9 +202,9 @@ If you use this work in research, please cite:
 ```bibtex
 @misc{swarm-consensus-rl-2024,
   title={Matrix-Based Consensus Dynamics for Reinforcement Learning Drone Swarms},
-  author={Your Name},
+  author={Elina389},
   year={2024},
-  url={https://github.com/yourusername/swarm-droneRLnew}
+  url={https://github.com/Elina389/swarm-droneRLnew}
 }
 ```
 
